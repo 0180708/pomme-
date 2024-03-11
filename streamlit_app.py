@@ -1,3 +1,5 @@
 import streamlit as st
-name=st.text_input("ton nom")
-st.write("Hello"+name)
+input=("lapin")
+list_possibilities=["rabit","race","rymhe","ragnit"]
+for i in range(len(list-possibilities))
+   st.buttom(list-possibilities[i])
